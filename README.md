@@ -79,6 +79,10 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 ## Capítulo II: Requirements Elicitation & Analysis
 - [2.1. Competidores](#21-competidores)
+
+  Parkimeter:
+    Parkimeter es una plataforma en línea que ofrece servicios relacionados con el estacionamiento y la gestión de plazas de aparcamiento. La plataforma permite a los usuarios buscar, comparar y reservar plazas de estacionamiento en diferentes ubicaciones. Además de la reserva de plazas de estacionamiento, Parkimeter también proporciona información sobre tarifas de estacionamiento, disponibilidad en tiempo real y otras características útiles para ayudar a los conductores a encontrar y gestionar el estacionamiento de manera más conveniente.
+    
   - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
   - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
 - [2.2. Entrevistas](#22-entrevistas)
